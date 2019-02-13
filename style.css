@@ -65,3 +65,34 @@ border:10px outset gray;
     border-style:dotted outset inset ridge;
     border-width:20px;
 }
+.row1{
+    width:33%;
+    border:2px inset gray;
+    padding:10px;
+    text-align:center;
+    margin-left:20px;
+    margin-right:20px;
+}
+.row2{
+    width:33%;
+    Border:2px solid black;
+    margin-top:20px;
+}
+#center{
+    Display:black;
+    width:25%;
+    margin:auto;
+    margin-top:25%;
+    margin-bottom: 50px;
+
+}
+#perLeftMargin{
+    height:200px;
+    width:25%;
+    margin-left:10%;
+    margin-right:30%
+}
+#perRightMargin{
+    height:200px;
+    width:25%
+}
