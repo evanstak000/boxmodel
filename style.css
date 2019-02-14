@@ -96,3 +96,16 @@ border:10px outset gray;
     height:200px;
     width:25%
 }
+.defaultpadding{
+padding:10px;
+}
+.defaultMargin{
+margin:0px 30pxs;
+}
+.defaultBorder{
+border:3px ridge fuchsia;
+}
+section{
+    font-size: 42px;
+}
+}
